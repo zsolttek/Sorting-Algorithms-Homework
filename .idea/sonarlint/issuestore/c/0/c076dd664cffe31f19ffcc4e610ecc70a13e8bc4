@@ -1,0 +1,25 @@
+
+isquid:S1192&"KDefine a constant instead of duplicating this literal "Duration: " 3 times.(®æ¡ä8Ò¼ÙÃÿ-
+V
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ØÄ²ü8Ò¼ÙÃÿ-
+V
+squid:S106-"9Replace this use of System.out or System.err by a logger.(®æ¡ä8Ò¼ÙÃÿ-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ä»®şÿÿÿÿ8Ò¼ÙÃÿ-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍÛÆÚ8¡èØÿ-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(»Ã×Øùÿÿÿÿ8Ò¼ÙÃÿ-
+V
+squid:S106&"9Replace this use of System.out or System.err by a logger.(®æ¡ä8Ò¼ÙÃÿ-
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(®æ¡ä8Ò¼ÙÃÿ-
+[
+squid:S106 "9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ò¼ÙÃÿ-
+[
+squid:S106("9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ò¼ÙÃÿ-
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8Ò¼ÙÃÿ-
+;squid:S21199"Save and re-use this "Random".(¼İÅf8•ëÂÿ-
+[
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¶ÛÎ•øÿÿÿÿ8Ò¼ÙÃÿ-
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(­¾Óˆüÿÿÿÿ8ïõ…Øÿ-

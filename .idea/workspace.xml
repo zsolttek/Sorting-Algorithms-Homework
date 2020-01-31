@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b61c1791-50cd-4728-9fc0-ef13a50711e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X8BeY8QORu8mRsuumcf9WWy4qF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.SortingTest (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="training.softwire.Main" />
+      <module name="SortingAlgorithmsHomework" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortingAlgorithmsHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.softwire.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="training.softwire.test" />
+      <option name="MAIN_CLASS_NAME" value="training.softwire.test.SortingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortingAlgorithmsHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.softwire.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="training.softwire" />
+      <option name="MAIN_CLASS_NAME" value="training.softwire.SortingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingTest.shouldReturnAnEmptyListIfEmptyListIsPassedIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SortingAlgorithmsHomework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="training.softwire.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="training.softwire.test" />
+      <option name="MAIN_CLASS_NAME" value="training.softwire.test.SortingTest" />
+      <option name="METHOD_NAME" value="shouldReturnAnEmptyListIfEmptyListIsPassedIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.SortingTest" />
+      <item itemvalue="JUnit.SortingTest (1)" />
+      <item itemvalue="JUnit.SortingTest.shouldReturnAnEmptyListIfEmptyListIsPassedIn" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SortingTest (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.SortingTest.shouldReturnAnEmptyListIfEmptyListIsPassedIn" />
+        <item itemvalue="JUnit.SortingTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b61c1791-50cd-4728-9fc0-ef13a50711e3" name="Default Changelist" comment="" />
+      <created>1580417936517</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580417936517</updated>
+      <workItem from="1580417940999" duration="7822000" />
+      <workItem from="1580463645296" duration="720000" />
+      <workItem from="1580464426821" duration="2858000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="164" key="#File_and_Code_Templates" timestamp="1580425154662">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="440" y="164" key="#File_and_Code_Templates/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425154662" />
+    <state x="-11" y="-1121" key="#com.intellij.ide.util.MemberChooser" timestamp="1580464079574">
+      <screen x="-1006" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-11" y="-1121" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952/-1006.-1417.2560.1417@-1006.-1417.2560.1417" timestamp="1580464079574" />
+    <state x="653" y="222" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425164179" />
+    <state x="578" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580425771569">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="578" y="253" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425771569" />
+    <state width="2518" height="237" key="GridCell.Tab.0.bottom" timestamp="1580470798303">
+      <screen x="-1006" y="-1417" width="2560" height="1342" />
+    </state>
+    <state width="2518" height="237" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1006.-1417.2560.1342@-1006.-1417.2560.1342" timestamp="1580470798303" />
+    <state width="2518" height="487" key="GridCell.Tab.0.bottom/0.23.1680.952/-1006.-1417.2560.1417@-1006.-1417.2560.1417" timestamp="1580468418262" />
+    <state width="1638" height="424" key="GridCell.Tab.0.bottom/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425859900" />
+    <state width="2518" height="237" key="GridCell.Tab.0.center" timestamp="1580470798302">
+      <screen x="-1006" y="-1417" width="2560" height="1342" />
+    </state>
+    <state width="2518" height="237" key="GridCell.Tab.0.center/0.23.1680.1027/-1006.-1417.2560.1342@-1006.-1417.2560.1342" timestamp="1580470798302" />
+    <state width="2518" height="487" key="GridCell.Tab.0.center/0.23.1680.952/-1006.-1417.2560.1417@-1006.-1417.2560.1417" timestamp="1580468418261" />
+    <state width="1638" height="424" key="GridCell.Tab.0.center/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425859899" />
+    <state width="2518" height="237" key="GridCell.Tab.0.left" timestamp="1580470798302">
+      <screen x="-1006" y="-1417" width="2560" height="1342" />
+    </state>
+    <state width="2518" height="237" key="GridCell.Tab.0.left/0.23.1680.1027/-1006.-1417.2560.1342@-1006.-1417.2560.1342" timestamp="1580470798302" />
+    <state width="2518" height="487" key="GridCell.Tab.0.left/0.23.1680.952/-1006.-1417.2560.1417@-1006.-1417.2560.1417" timestamp="1580468418260" />
+    <state width="1638" height="424" key="GridCell.Tab.0.left/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425859899" />
+    <state width="2518" height="237" key="GridCell.Tab.0.right" timestamp="1580470798303">
+      <screen x="-1006" y="-1417" width="2560" height="1342" />
+    </state>
+    <state width="2518" height="237" key="GridCell.Tab.0.right/0.23.1680.1027/-1006.-1417.2560.1342@-1006.-1417.2560.1342" timestamp="1580470798303" />
+    <state width="2518" height="487" key="GridCell.Tab.0.right/0.23.1680.952/-1006.-1417.2560.1417@-1006.-1417.2560.1417" timestamp="1580468418261" />
+    <state width="1638" height="424" key="GridCell.Tab.0.right/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425859900" />
+    <state x="552" y="395" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580422063424">
+      <screen x="0" y="23" width="1680" height="952" />
+    </state>
+    <state x="552" y="395" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580422063424" />
+    <state x="-236" y="-1106" width="1021" height="1007" key="search.everywhere.popup" timestamp="1580464072788">
+      <screen x="-1006" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-236" y="-1106" width="1021" height="1007" key="search.everywhere.popup/0.23.1680.952/-1006.-1417.2560.1417@-1006.-1417.2560.1417" timestamp="1580464072788" />
+    <state x="505" y="232" width="670" height="676" key="search.everywhere.popup/0.23.1680.952/145.-745.1366.745@0.23.1680.952" timestamp="1580425493047" />
+  </component>
+</project>
